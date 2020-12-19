@@ -1,0 +1,1 @@
+console.error("\n/Users/nathan/projects/opz projects/opz-starter/lib/index.js:1\nimport Midi from \"./midi\";\n^\nParseError: 'import' and 'export' may appear only with 'sourceType: module'");

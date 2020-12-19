@@ -1,0 +1,14 @@
+html {
+  font-size:62.5%;
+  height: 100%;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-size: 1.9rem;
+  margin: auto;
+}
+
